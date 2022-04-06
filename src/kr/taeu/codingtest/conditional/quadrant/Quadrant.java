@@ -1,4 +1,4 @@
-package kr.taeu.codingtest.arithmeticoperation.quadrant;
+package kr.taeu.codingtest.conditional.quadrant;
 
 import java.util.Scanner;
 

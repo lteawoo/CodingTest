@@ -1,4 +1,4 @@
-# 사분면 - 사칙연산
+# 사분면 - 조건문
 https://www.acmicpc.net/problem/14681
 
 ## 풀이

@@ -1,4 +1,4 @@
-# 윤년 - 사칙연산
+# 윤년 - 조건문
 https://www.acmicpc.net/problem/2753
 
 ## 풀이

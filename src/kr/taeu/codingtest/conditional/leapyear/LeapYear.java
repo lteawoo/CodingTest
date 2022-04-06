@@ -1,4 +1,4 @@
-package kr.taeu.codingtest.arithmeticoperation.leapyear;
+package kr.taeu.codingtest.conditional.leapyear;
 
 import java.util.Scanner;
 
